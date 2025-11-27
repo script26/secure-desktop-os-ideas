@@ -1,5 +1,5 @@
 # secure-desktop-os-ideas
-secure ideas (probably the most secure desktop setup WITH performance for Linux as of now):
+secure ideas (probably the MOST secure desktop setup WITH performance for Linux as of now):
 
 - using a minimalist or maybe security focused based os, like alpine linux or secureblue
   - use alpine linux if ya dont like systemd (minimalist openrc, thus secure, but will need to setup a lot),
