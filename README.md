@@ -10,7 +10,7 @@ secure ideas (probably the MOST secure desktop setup WITH performance for Linux 
   for near native gpu performance, without needing to buy another gpu
   just for your local ai. It is also more secure than full gpu passthrough, cause if you do full gpu passthrough,
   you're giving that VM absolute DMA (direct memory access)
-  - venus has dma access as well, since it is partial gpu passthrough, but it is safer than
+  - venus uses dma as well, since it is partial gpu passthrough, but it is safer than
     full gpu passthrough, since it minimizes raw hardware access
   - use viommu
   - venus is also still very new technology, might not be stable
