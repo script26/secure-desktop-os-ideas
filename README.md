@@ -13,7 +13,7 @@ secure ideas (probably the MOST secure desktop setup WITH performance for Linux 
 # Most secure desktop hardware?
 - hp z based workstations since they seem to have secured-core pc security for firmware attack protection
   with linux support
-- maybe qubes os ceritfied hardware desktops 
+- maybe qubes os certified hardware desktops (no verified boot)
 
 # Host OS Security
 - wayland only for gui isolation
