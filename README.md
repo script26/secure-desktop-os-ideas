@@ -24,6 +24,7 @@ secure ideas:
 - apply mandatory access control to init system PID 1
 - disable ttys?
 - disable all boot information at boot
+- no unecessary kernel modules, do not enable any DMA (direct memory access, like firewall, thunderbolt) kernel module
 - DO NOT install any user software on host os, that should be in virtual machines
 
 # Guest OS Security
