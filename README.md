@@ -48,7 +48,7 @@ secure ideas (probably the MOST secure desktop setup WITH performance for Linux 
 # Guest OS Security
 - you should care about the guest os security as well, so disable any unnecessary kernel modules to absolute
   minimum
-- unikernals is interesting, can run only the app needed, but im not sure how you would pass gui bridge to it
+- unikernals are interesting, can run only the app needed, but im not sure how you would pass gui bridge to it
 
 # Q&A
 Why not qubes os/chrome os?
