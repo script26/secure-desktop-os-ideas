@@ -13,7 +13,7 @@ secure ideas:
 # qna
 Why not qubes os/chrome os?
 - chromeos is good for its verified boot, and hardened base os
-- qubesos, it is even more secure than chromeos (except lack of verified boot, heads is ok),
+- qubes os, it is even more secure than chromeos (except lack of verified boot, heads is ok),
   but i thought it was too limiting (yes it doesn't have gpu accel for security, but now you can't run
   your own local ai, or maybe you're a gamer)
 - chromeos wasn't too limiting, and there was even a steam vm (borealis) for gaming, you could even import different games
