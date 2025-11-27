@@ -21,7 +21,7 @@ secure ideas:
 - selinux/apparmor (selinux is better, more granular)
 - hardened software compilation flags (PIE positional independent executable)
 - secure boot (unfortunately no verified boot, hardware does not exist for that)
-- dm-verity / fs-verity (fs-verity better for granularity)
+- dm-verity / fs-verity (fs-verity better for granularity, can possibly use it to verify read-only vms?)
 - dmcrypt / fscrypt + metadata encryption (fscrypt + metadata encryption better for granularity)
 - run as many system services as non privileged user
 - run as many services isolated from each other
