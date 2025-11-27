@@ -13,6 +13,10 @@ secure ideas:
 # Host OS Security
 - disable root access
 - kernel ASLR
+- kernel security compilation features enable in KConfig
+- hardened malloc frum graphene os
+- sysctl hardening?
+- hidepid=2 for minimalized kernel leaks (/proc, /sys)
 - read-only partition (eroFS (better just because its faster)/squashFS)+ noexec for user directories
 - selinux/apparmor (selinux is better, more granular)
 - hardened software compilation flags (PIE positional independent executable)
