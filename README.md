@@ -23,4 +23,4 @@ Why not qubes os/chrome os?
 Why not just use flatpak?
 - flatpak has too many permissions that are permissive, you can see
   that many programs ask demanding over privileged permissions BY DEFAULT
-- there is shell exploits, can easily bypass the fake "sandboxing" flatpak does 
+- there are shell exploits, can easily bypass the fake "sandboxing" flatpak does 
