@@ -23,7 +23,8 @@ secure ideas:
 - run as many services isolated from each other
 - apply mandatory access control to init system PID 1
 - disable ttys?
-- disable all boot information at boot 
+- disable all boot information at boot
+- DO NOT install any user software on host os, that should be in virtual machines
 
 # Guest Os Security
 - you should care about the guest os security as well, so disable any unnecessary kernel modules to absolute
