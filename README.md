@@ -4,7 +4,7 @@ secure ideas:
 - using a minimalist or maybe security focused based os, like alpine linux or secureblue
   - use alpine linux if ya dont like systemd (minimalist, thus secure, but will need to setup a lot)
   - use secureblue for its trivalent browser
-- but we aren't installing user apps on these base os, we will use virt-manager.
+- but we aren't installing user apps on these base oses, we will use virt-manager.
 - if you want to do anything gpu intensive, you can install Venus (virt-io) gpu
 for near native gpu performance, without needing to buy another frickin gpu
 just for your local ai
