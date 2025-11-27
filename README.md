@@ -68,7 +68,7 @@ Why not just use flatpak?
 
 Why not just use bubblewrap?
 - flatpak is based off bubblewrap by the way, and also theres too many applications to
-  manually secure with bubblewrap. Applications should be built on a secure platform,
+  manually secure with bubblewrap. Applications should be built with security on a secure platform,
   not the other way around where the secure platform tries to make all apps secure
 
 Why did you make this?
