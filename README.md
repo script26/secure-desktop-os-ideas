@@ -11,6 +11,7 @@ secure ideas (probably the MOST secure desktop setup WITH performance for Linux 
   just for your local ai
 
 # Host OS Security
+- wayland only for gui isolation
 - disable root access
 - kernel ASLR
 - kernel security compilation features enable in KConfig
