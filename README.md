@@ -10,7 +10,7 @@ secure ideas:
   for near native gpu performance, without needing to buy another frickin gpu
   just for your local ai
 
-# Host Os Security
+# Host OS Security
 - disable root access
 - kernel ASLR
 - read-only partition (eroFS (better just because its faster)/squashFS)+ noexec for user directories
@@ -26,7 +26,7 @@ secure ideas:
 - disable all boot information at boot
 - DO NOT install any user software on host os, that should be in virtual machines
 
-# Guest Os Security
+# Guest OS Security
 - you should care about the guest os security as well, so disable any unnecessary kernel modules to absolute
   minimum
 - unikernals is interesting, can run only the app needed, but im not sure how you would pass gui bridge to it
