@@ -12,6 +12,7 @@ secure ideas (probably the MOST secure desktop setup WITH performance for Linux 
   you're giving that VM absolute DMA (direct memory access)
   - venus has dma access as well, since it is partial gpu passthrough, but it is safer than
     full gpu access
+  - use viommu
   - venus is also still very new technology, might not be stable
 
 # Most secure desktop hardware?
