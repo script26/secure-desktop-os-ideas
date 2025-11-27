@@ -54,7 +54,7 @@ Why not qubes os/chrome os?
   but i thought it was too limiting (yes it doesn't have gpu accel for security, but now you can't run
   your own local ai)
 - chromeos wasn't too limiting, and there was even a steam vm (borealis) for gaming, you could play absolutely any linux game
-  with near native gpu performance
+  through importing games in crosh shell to borealis, and play with near native gpu performance
 - this setup was inspired by qubes os and chromeos, grapheneos kicksecure whonix
 
 Why not just use flatpak?
