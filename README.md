@@ -6,7 +6,7 @@ secure ideas:
     and don't like glibc and prefer minimalist musl
   - use secureblue for its trivalent browser
 - but we aren't installing user apps on these base oses, we will use virt-manager.
-- if you want to do anything gpu intensive, you can install Venus (virt-io) gpu drivers
+- if you want to do anything gpu intensive, you can install Venus (virt-io) gpu virtualization drivers
   for near native gpu performance, without needing to buy another frickin gpu
   just for your local ai
 
