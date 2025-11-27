@@ -65,6 +65,11 @@ Why not just use flatpak?
   that many programs ask demanding over privileged permissions BY DEFAULT
 - there are shell exploits, can easily bypass the fake "sandboxing" flatpak does
 
+Why not just use bubblewrap?
+- flatpak is based off bubblewrap, and also theres too many applications to
+  manually secure with bubblewrap. Applications should be built on a secure platform,
+  not the other way around where the secure platform tries to make all apps secure
+
 Why did you make this?
 - hoping to spread awareness about pushing the bounderies of desktop security, since desktop security is usually poor user practice, poor
   habits and poor support for several decades ever since
