@@ -45,7 +45,7 @@ Why not qubes os/chrome os?
   your own local ai, or maybe you're a gamer)
 - chromeos wasn't too limiting, and there was even a steam vm (borealis) for gaming, you could even import different games
   on it like minecraft for absolute near native gpu performance
-- this setup was inspired by qubes os and chromeos
+- this setup was inspired by qubes os and chromeos, grapheneos kicksecure
 
 Why not just use flatpak?
 - flatpak has too many permissions that are permissive, you can see
