@@ -31,7 +31,7 @@ secure ideas (probably the MOST secure desktop setup WITH performance for Linux 
 - hidepid=2 for minimalized kernel leaks (/proc, /sys)
 - read-only partition (eroFS (better just because its faster)/squashFS)+ noexec for user directories
 - selinux/apparmor (selinux is better, more granular)
-- hardened software compilation flags (PIE positional independent executable)
+- hardened software compilation flags (PIE positional independent executable, musl already does this by default)
 - secure boot (unfortunately no verified boot, hardware does not exist for that)
 - dm-verity / fs-verity (fs-verity better for granularity, can possibly use it to verify read-only vm images?)
 - dmcrypt / fscrypt + metadata encryption (fscrypt + metadata encryption better for granularity)
