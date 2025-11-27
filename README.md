@@ -42,6 +42,7 @@ secure ideas (probably the MOST secure desktop setup WITH performance for Linux 
   thunderbolt) kernel module
 - DO NOT install any user software on host os, that should be in virtual machines
 - update cpu microcode
+- enable iommu
 
 # Guest OS Security
 - you should care about the guest os security as well, so disable any unnecessary kernel modules to absolute
