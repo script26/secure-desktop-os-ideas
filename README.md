@@ -8,7 +8,7 @@ secure ideas (probably the MOST secure desktop setup WITH performance for Linux 
 - but we aren't installing user apps on these base oses, we will use virt-manager.
 - if you want to do anything gpu intensive, you can install Venus (virt-io) gpu virtualization drivers
   for near native gpu performance, without needing to buy another frickin gpu
-  just for your local ai (also more secure than full gpu passthrough, cause if you do full gpu passthrough,
+  just for your local ai. It is also more secure than full gpu passthrough, cause if you do full gpu passthrough,
   you're giving that VM DMA (direct memory access)
 
 # Most secure desktop hardware?
