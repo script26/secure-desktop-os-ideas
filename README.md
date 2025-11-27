@@ -10,6 +10,8 @@ secure ideas:
   for near native gpu performance, without needing to buy another frickin gpu
   just for your local ai
 
+---
+
 - you should care about the guest os security as well, so disable any unnecessary kernel modules to absolute
   minimum
 - unikernals is interesting, can run only the app needed, but im not sure how you would pass gui bridge to it
