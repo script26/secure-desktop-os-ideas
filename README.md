@@ -10,13 +10,27 @@ secure ideas:
   for near native gpu performance, without needing to buy another frickin gpu
   just for your local ai
 
----
+# Host Os Security
+- disable root access
+- kernel ASLR
+- read-only partition (eroFS (better just because its faster)/squashFS)+ noexec for user directories
+- selinux/apparmor (selinux is better, more granular)
+- hardened software compilation flags (PIE positional independent executable)
+- secure boot (unfortunately no verified boot, hardware does not exist for that)
+- dm-verity / fs-verity (fs-verity better for granularity)
+- dmcrypt / fscrypt + metadata encryption (fscrypt + metadata encryption better for granularity)
+- run as many system services as non privileged user
+- run as many services isolated from each other
+- apply mandatory access control to init system PID 1
+- disable ttys?
+- disable all boot information at boot 
 
+# Guest Os Security
 - you should care about the guest os security as well, so disable any unnecessary kernel modules to absolute
   minimum
 - unikernals is interesting, can run only the app needed, but im not sure how you would pass gui bridge to it
 
-# qna
+# q&a
 Why not qubes os/chrome os?
 - chromeos is good for its verified boot, and hardened base os
 - qubes os, it is even more secure than chromeos (except lack of verified boot, heads is ok),
