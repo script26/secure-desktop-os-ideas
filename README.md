@@ -53,8 +53,8 @@ Why not qubes os/chrome os?
 - qubes os, it is even more secure in some ways than chromeos (except lack of verified boot, heads is ok but its just user attestation),
   but i thought it was too limiting (yes it doesn't have gpu accel for security, but now you can't run
   your own local ai)
-- chromeos wasn't too limiting, and there was even a steam vm (borealis) for gaming, you could even import different games
-  on it like minecraft for absolute near native gpu performance
+- chromeos wasn't too limiting, and there was even a steam vm (borealis) for gaming, you could play absolutely any linux game
+  with near native gpu performance
 - this setup was inspired by qubes os and chromeos, grapheneos kicksecure whonix
 
 Why not just use flatpak?
