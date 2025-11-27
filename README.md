@@ -11,8 +11,9 @@ secure ideas (probably the MOST secure desktop setup WITH performance for Linux 
   just for your local ai
 
 # Most secure desktop hardware?
--  hp z based workstations since they seem to have secured-core pc security for firmware attack protection
--  maybe qubes os ceritfied hardware desktops 
+- hp z based workstations since they seem to have secured-core pc security for firmware attack protection
+  with linux support
+- maybe qubes os ceritfied hardware desktops 
 
 # Host OS Security
 - wayland only for gui isolation
