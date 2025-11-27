@@ -9,7 +9,7 @@ secure ideas (probably the MOST secure desktop setup WITH performance for Linux 
 - if you want to do anything gpu intensive, you can install Venus (virt-io) gpu virtualization drivers
   for near native gpu performance, without needing to buy another frickin gpu
   just for your local ai. It is also more secure than full gpu passthrough, cause if you do full gpu passthrough,
-  you're giving that absolute direct VM DMA (direct memory access)
+  you're giving that VM absolute DMA (direct memory access)
   - venus has dma access as well, since it is partial gpu passthrough, but it is known to be safer and more isolated than
     full gpu access, and prevents dma attacks since it should still be isolated
   - venus is also still very new technology, might not be stable
