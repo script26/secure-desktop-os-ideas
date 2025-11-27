@@ -31,7 +31,7 @@ secure ideas:
   minimum
 - unikernals is interesting, can run only the app needed, but im not sure how you would pass gui bridge to it
 
-# q&a
+# Q&A
 Why not qubes os/chrome os?
 - chromeos is good for its verified boot, and hardened base os
 - qubes os, it is even more secure than chromeos (except lack of verified boot, heads is ok),
