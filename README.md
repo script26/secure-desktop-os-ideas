@@ -41,6 +41,7 @@ secure ideas (probably the MOST secure desktop setup WITH performance for Linux 
 - no unnecessary kernel modules, do not enable any DMA (direct memory access, like firewall,
   thunderbolt) kernel module
 - DO NOT install any user software on host os, that should be in virtual machines
+- update cpu microcode
 
 # Guest OS Security
 - you should care about the guest os security as well, so disable any unnecessary kernel modules to absolute
