@@ -50,6 +50,7 @@ secure ideas (probably the MOST secure desktop setup WITH performance for Linux 
 - you should care about the guest os security as well, so disable any unnecessary kernel modules to absolute
   minimum
 - unikernals are interesting, can run only the app needed, but im not sure how you would pass gui bridge to it
+- if ya can, android apps are secure with their custom jvm implementation, and memory safe java/kotlin
 
 # Q&A
 Why not qubes os/chrome os?
