@@ -65,6 +65,6 @@ Why not just use flatpak?
 - there are shell exploits, can easily bypass the fake "sandboxing" flatpak does
 
 Why did you make this?
-- hoping to spread awareness about pushing the bounderies of desktop security, since desktop security is usually poor user practice and
-  habits for several decades ever since
+- hoping to spread awareness about pushing the bounderies of desktop security, since desktop security is usually poor user practice, poor
+  habits and poor support for several decades ever since
 - this setup was inspired by qubes os and chromeos, grapheneos aosp kicksecure whonix
